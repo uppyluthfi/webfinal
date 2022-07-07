@@ -1,0 +1,89 @@
+.atas{
+    text-align: center;
+    margin-top: -400px;
+    margin-left: 30px;
+    
+}
+.tengah{
+    margin-left: 550px;
+    
+}
+.gambar{
+    margin-top: 70px;
+    margin-left: 150px;
+}
+hr {
+    width: 350px;
+    margin-left: 520px;
+    
+}
+.option{
+    margin-left: 550px;
+    margin-top: -45px;
+    width: 70px;
+    
+}
+option{
+    width: 70px;
+}
+.jajan{
+    margin-top: -80px;
+}
+.bawah{
+    margin-left: 630px;
+    margin-top: 40px;
+}
+.maruf{
+    width: 90%;
+}
+h1{
+    font-family: 'Metal Mania', cursive;
+}
+.login{
+  margin-left: 20px;
+}
+footer{
+padding: 30px 0;
+background-color: rgb(239, 240, 241);
+color: black;
+text-align: center;
+}
+.keranjang a{
+  color: black;
+}
+.keranjang a :hover{
+  transform: scale(1.5);
+}
+.login a{
+  color: black;
+}
+.login a :hover{
+  transform: scale(1.5);
+}
+.alamat{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.masukan{
+    margin-left: 20px;
+}
+.last{
+    margin-top: 30px;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wa{
+    font-size: 80px;
+    margin-top: 40px;
+    margin-left: 550px;
+
+}
+#wa h4{
+    margin-top: -65px;
+    margin-left: 100px;
+    
+}
+#wa a{
+    color: rgb(0, 0, 0);
+}
